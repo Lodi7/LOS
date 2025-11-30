@@ -1,6 +1,6 @@
 # LOS - Lodi Operating System
 
-**LOS** (Lodi Operating System) is a remastered Linux Mint-based OS designed specifically for **software development**. It offers a flexible environment where users can choose their development focus during the first install, such as **Web Development, Python Development, or Data Science**.
+**LOS** (Lodi Operating System) is a remastered Linux Mint-based OS designed specifically for **software development**. It offers a flexible environment where users can choose their development focus during the first install, such as **Web Development, Game Development, Mobile Development, DevOps Develompment, or Data Science**.
 
 ---
 
